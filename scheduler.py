@@ -447,4 +447,4 @@ explanation_text = """
 
 ttk.Label(explanation, text=explanation_text, justify="left").pack(anchor="w")
 update_time_quantum_visibility()
-root.()
+root.mainloop()
