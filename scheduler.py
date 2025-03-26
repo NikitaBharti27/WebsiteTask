@@ -2,7 +2,7 @@ import tkinter
 from ttkbootstrap import Style
 from ttkbootstrap.constants import *
 from tkinter import ttk, messagebox
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as 
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from queue import PriorityQueue
 
