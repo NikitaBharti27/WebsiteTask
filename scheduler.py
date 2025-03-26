@@ -4,7 +4,7 @@ from ttkbootstrap.constants import *
 from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from queue import 
+from queue import PriorityQueue
 
 
 def calculate_scheduling():
